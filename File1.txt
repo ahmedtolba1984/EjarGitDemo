@@ -1,4 +1,8 @@
 File1 initial changes
 stashed changes
 file1 branch2
+<<<<<<< HEAD
 master new changes
+=======
+v2 conflict changes
+>>>>>>> v2.0
