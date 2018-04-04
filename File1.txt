@@ -1,1 +1,3 @@
 File1 initial changes
+stashed changes
+file1 branch2
